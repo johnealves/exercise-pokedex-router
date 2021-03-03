@@ -1,0 +1,15 @@
+.pokemon-details {
+  background-color: aqua;
+  border: 5px solid rgb(247, 24, 24);
+  border-radius: 10px;
+  margin: auto;
+
+  display: flex;
+  justify-content: center;
+  max-width: 30rem;
+}
+
+.map-location {
+  display: flex;
+  justify-content: space-evenly;
+}
